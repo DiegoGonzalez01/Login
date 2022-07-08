@@ -1,0 +1,17 @@
+#caja_menu{
+    background-color: darkcyan;
+    width: 50%;
+    margin-left: 20%;
+    border-radius:10px ;
+
+}
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.cerrar{
+    width: 20%;
+}
+.cerrar:hover{
+    width: 22%;
+}
